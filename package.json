@@ -31,7 +31,7 @@
         "@inertiajs/progress": "^0.2.7",
         "@tailwindcss/typography": "^0.5.3",
         "@vitejs/plugin-vue": "^3.0.1",
-        "@vueuse/core": "^8.5.0",
+        "@vueuse/core": "^9.13.0",
         "atmosphere-ui": "^0.7.7",
         "autoprefixer": "^10.4.7",
         "axios": "^0.27.2",
